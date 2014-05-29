@@ -8,4 +8,4 @@ Bastian is comprised of two parts:
 
   1. Set the local hostname based on tags.
   1. Add a DNS entry in Route53 for the hostname pointing to the IP for VPCs or the
-     ec2-<ip> hostname for EC2-Classic.
+     ec2-&lt;ip&gt; hostname for EC2-Classic.
